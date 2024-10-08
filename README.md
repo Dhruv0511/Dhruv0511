@@ -112,6 +112,6 @@ Passionate about exploring new techniques, staying current with industry advance
 
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&Left=true&v=true&Leftwidth=1500&height=70&duration=2600&lines=THANK+YOU+FOR+STOPPING+BY.;LET+US+CONTINUE+TO+PUSH+BOUNDARIES;AND+MAKE+SIGNIFICANT+STRIDES;IN+THE+WORLD+OF+DATA+TOGETHER.;Reach+out+to+me+on+LinkedIn!;Always+open+to+innovative+collaborations;and+new+ideas+💡&color=E5E4E2" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&Left=true&v=true&Leftwidth=1500&height=70&duration=2600&lines=THANK+YOU+FOR+STOPPING+BY.;LET+US+CONTINUE+TO+PUSH+BOUNDARIES;AND+MAKE+SIGNIFICANT+STRIDES;IN+THE+WORLD+OF+DATA+TOGETHER.+💡&color=E5E4E2" />
     </h1>
 </div>
