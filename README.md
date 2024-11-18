@@ -19,8 +19,8 @@ Passionate about exploring new techniques, staying current with industry advance
 
 <div align="center">
     <p align="center">
-        <a href="http://www.linkedin.com/in/dhruv-kotecha"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/virajnbhutada24/" alt="LinkedIn" height="25" style="border-radius: 5px;"></a>
-        <a href="mailto:dhruvkk05@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8a3324?style=flat&logo=gmail&logoColor=white&link=mailto:virajnbhutada24@gmail.com" alt="Email" height="25" style="border-radius: 5px;"></a>
+        <a href="http://www.linkedin.com/in/dhruv-kotecha"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dhruv-kotecha/" alt="LinkedIn" height="25" style="border-radius: 5px;"></a>
+        <a href="mailto:dhruvkk05@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8a3324?style=flat&logo=gmail&logoColor=white&link=mailto:dhruvkk05@gmail.com" alt="Email" height="25" style="border-radius: 5px;"></a>
     </p>
 </div>
 
