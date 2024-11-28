@@ -28,7 +28,7 @@ Passionate about exploring new techniques, staying current with industry advance
 </div>
 
 <details>
-<summary><h2>📚 Core Competencies and Expertise💡</h2></summary>
+<summary><h2> Core Competencies and Expertise💡</h2></summary>
 
 | **Area**               | **Description**                                                                                      |
 |------------------------|------------------------------------------------------------------------------------------------------|
@@ -48,7 +48,7 @@ Passionate about exploring new techniques, staying current with industry advance
 
 
 <details>
-<summary><h2>🔗 Technical Skills 📈</h2></summary>
+<summary><h2> Technical Skills 📈</h2></summary>
 
  <h3 align="left">💻 Tech Stack </h3>
 <p align="left">
