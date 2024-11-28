@@ -9,7 +9,10 @@
 </h1>
 
 
-<img align="right" alt='Coder GIF' height=250 width=300 src="https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif" />
+<p align="right">
+  <img alt="Coder GIF" src="https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif" style="width: 100%; max-width: 300px; height: auto;" />
+</p>
+
 
 
 A dedicated Data Science Analyst and enthusiastic learner, committed to uncovering meaningful insights from complex datasets. With a strong background in data analysis, machine learning, and data visualization, specializing in transforming intricate data into actionable insights and creating impactful solutions. The goal is to leverage analytical skills and continuous learning to discover patterns and trends that support informed decision-making.
